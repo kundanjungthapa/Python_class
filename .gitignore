@@ -188,3 +188,4 @@ env/
 .env
 env
 env.py
+.idea/
